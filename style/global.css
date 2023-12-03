@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --headings-h1: "Clash Display";
+  --body-large: Satoshi;
+
+  /* font sizes */
+  --headings-h1-size: 36px;
+  --font-size-sm: 14px;
+  --body-medium-size: 16px;
+  --headings-h2-size: 32px;
+  --headings-h4-size: 20px;
+  --headings-h3-size: 24px;
+  --body-large-size: 18px;
+
+  /* Colors */
+  --light-grey: #f9f9f9;
+  --primary: #4e4d93;
+  --dark-primary: #2a254b;
+  --white: #fff;
+  --border-grey: #ebe8f4;
+  --color-slategray: #726e8d;
+  --color-gray: #22202e;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-xs: 12px;
+  --gap-5xs: 8px;
+  --gap-base: 16px;
+  --gap-sm: 14px;
+  --gap-mini: 15px;
+  --gap-25xl: 44px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-13xl: 32px;
+  --padding-29xl: 48px;
+  --padding-xs: 12px;
+}
